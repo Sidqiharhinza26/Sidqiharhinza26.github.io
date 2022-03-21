@@ -1,0 +1,99 @@
+.navbar {
+  background-color: #000000;
+}
+
+.footer {
+  background-color: #000000;
+}
+
+.copyright {
+  background-color: #000000;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #129552;
+  color: #ffff;
+}
+
+.jumbotronBlog {
+  padding-top: 7rem;
+  padding-bottom: 5rem;
+  background-color: #f5f5f5;
+  color: #ffff;
+}
+
+.product {
+  background-color: #129552;
+}
+
+.CTApilih {
+  padding: 12px 22px;
+  font-family: NunitoSansBold, sans-serif;
+  font-size: clamp(0.75rem, 0.875rem, 1rem);
+  letter-spacing: 0.05em;
+  line-height: 1.571rem;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #129552;
+  background-color: #fff;
+  border: none;
+  border-radius: 10px;
+}
+
+.CTApilih:hover {
+  background-color: #fff;
+  outline: none;
+  text-decoration: none;
+}
+
+.CTAabout {
+  padding: 12px 22px;
+  font-family: NunitoSansBold, sans-serif;
+  font-size: clamp(0.75rem, 0.875rem, 1rem);
+  letter-spacing: 0.05em;
+  line-height: 1.571rem;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #129552;
+  border: none;
+  border-radius: 10px;
+}
+
+.CTAabout:hover {
+  background-color: s;
+  outline: none;
+  text-decoration: none;
+}
+
+.buttonHero:active {
+  background-color: #129552;
+  transform: translateY(4px);
+}
+
+.kirim {
+  color: #fff;
+  background-color: #129552;
+}
+
+.contact {
+  padding: 2rem 0rem;
+}
+
+.product {
+  background-color: #f5f5f5;
+  padding: 2rem 0rem;
+}
+
+.about {
+  padding: 2rem 0rem;
+}
+
+.blog {
+  padding-top: 1rem;
+  background-color: #fff;
+}
